@@ -3,7 +3,7 @@
 ### 프로젝트 진행 전 준비
 
 * 본 GitHub repository를 개인 GitHub 계정으로 fork
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/fork_window.png" width="80%"><br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/fork_window.png" width="80%"><br>
     - 위 사진 같이 우측 상단에 있는 fork 버튼 클릭 후 개인 계정 선택<br>
     (2인 1팀인 경우, 두 사람 다 fork한 후, 프로젝트 후 제출 할 repo를 하나 선택해주세요)<br>
     fork로 생성된 Git repo는 추후 전체 팀 파일 관리, 수상자 코드 공개 등에 사용 될 예정입니다.
@@ -17,15 +17,15 @@
 * 구글 드라이브에 노트 저장하고 조교와 공유 **(중요)** <br>
     - 파일 - 드라이브에 사본 저장 클릭<br>
         (사본을 저장해야 편집하고 공유가 가능합니다. 생성한 사본에서 작업해주세요.)
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/copy_save.png"><br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/copy_save.png"><br>
     <br>
     
     - 열린 사본 노트 이름을 더블클릭하고 **hackathon_teamXX** 형식으로 이름 변경<br>
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/rename.png"><br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/rename.png"><br>
     <br>
     
     - 우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료<br>
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/share.png">
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/share.png">
     <br>
      
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작합니다** <br>
@@ -39,18 +39,18 @@
 
 * 소스코드 (.ipynb) 제출<br>
     "파일 -> GitHub에 사본 저장"을 클릭하면 아래와 같은 창을 확인할 수 있으며, 원하는 커밋 메세지 입력 후 확인
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/push_git.png" width="80%">
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/push_git.png" width="80%">
     
 * 소스코드 외 컴파일된 모델 파일 (.h5) 제출<br>
     - 주어진 템플릿으로 올바르게 실행을 하면 컴파일된 모델(model_entire_teamXX.h5) 파일이 **/content**에 생성됩니다<br>
     우클릭 - 다운로드 로 위에 나열된 파일을 다운<br>
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/file.png">  <br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/file.png">  <br>
     
     - 파일들을 GitHub에 추가<br>
     fork한 repository에서 우측 Upload files를 클릭
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/upload.png"> <br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/upload.png"> <br>
     두 폴더를 드래그해 추가하고 commit<br>
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/drag.png"> <br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/drag.png"> <br>
     (파일 크키가 커서 올라가지 않는 경우엔, Git command를 사용해 올려주세요.)
         
 ---
@@ -60,7 +60,7 @@
 **소스코드 (hackathon_teamXX.ipynb), 컴파일된 모델 (model_entire_teamXX.h5)**
 
 개인 repo 상태과 다음과 같아야 함<br>
-<img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/master/image/final.png"> <br>
+<img src="https://raw.githubusercontent.com/cauosshackathonta/2021_cau_oss_hackathon/main/image/final.png"> <br>
 
 **(중요) 최종 제출물이 가장 최신 버전인지, GitHub에 잘 올라가졌는지 다시 한번 확인 부탁드립니다.**
 

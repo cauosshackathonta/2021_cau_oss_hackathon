@@ -3,7 +3,7 @@
 ### 프로젝트 진행 전 준비
 
 * 본 GitHub repository를 개인 GitHub 계정으로 fork
-    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/fork_window.png" width="80%"><br>
+    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/fork_window.png" width="100%"><br>
     - 위 사진 같이 우측 상단에 있는 fork 버튼 클릭 후 개인 계정 선택<br>
     (2인 1팀인 경우, 두 사람 다 fork한 후, 프로젝트 후 제출 할 repo를 하나 선택해주세요)<br>
     fork로 생성된 Git repo는 추후 전체 팀 파일 관리, 수상자 코드 공개 등에 사용 될 예정입니다.
@@ -17,7 +17,7 @@
 * 구글 드라이브에 노트 저장하고 조교와 공유 **(중요)** <br>
     - 파일 - 드라이브에 사본 저장 클릭<br>
         (사본을 저장해야 편집하고 공유가 가능합니다. 생성한 사본에서 작업해주세요.)
-    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/copy_save.png"><br>
+    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/copy_save.png" width="50%"><br>
     <br>
     
     - 열린 사본 노트 이름을 더블클릭하고 **hackathon_teamXX** 형식으로 이름 변경<br>

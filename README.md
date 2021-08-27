@@ -17,11 +17,11 @@
 * 구글 드라이브에 노트 저장하고 조교와 공유 **(중요)** <br>
     - 파일 - 드라이브에 사본 저장 클릭<br>
         (사본을 저장해야 편집하고 공유가 가능합니다. 생성한 사본에서 작업해주세요.)
-    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/copy_save.png" width="30%"><br>
+    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/copy_save.png" width="50%"><br>
     <br>
     
     - 열린 사본 노트 이름을 더블클릭하고 **hackathon_teamXX** 형식으로 이름 변경<br>
-    <img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/rename.png"><br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2020_cau_oss_hackathon/master/image/rename.png"><br>
     <br>
     
     - 우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료<br>
@@ -60,7 +60,7 @@
 **소스코드 (hackathon_teamXX.ipynb), 컴파일된 모델 (model_entire_teamXX.h5)**
 
 개인 repo 상태과 다음과 같아야 함<br>
-<img src="https://github.com/cauosshackathonta/2021_cau_oss_hackathon/blob/main/image/final.png"> <br>
+<img src="https://raw.githubusercontent.com/cauosshackathonta/2020_cau_oss_hackathon/master/image/final.png"> <br>
 
 **(중요) 최종 제출물이 가장 최신 버전인지, GitHub에 잘 올라가졌는지 다시 한번 확인 부탁드립니다.**
 
